@@ -14,7 +14,7 @@
 
 ***TASK-3***
 
-# 4-Stage Pipelined RISC-V Processor
+4-Stage Pipelined RISC-V Processor
 
 ## Overview
 
